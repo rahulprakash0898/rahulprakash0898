@@ -18,29 +18,30 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>💡 Languages</h3>
-`JavaScript (ES6+)`, `TypeScript`, `Python`  
+### 💡 Languages  
+`JavaScript (ES6+)` `TypeScript` `Python`  
 
-<h3>🔧 Backend</h3>
-`Node.js`, `Express.js`, `GraphQL`, `REST API`, `WebSockets`  
+### 🔧 Backend  
+`Node.js` `Express.js` `GraphQL` `REST API` `WebSockets`  
 
-<h3>🎨 Frontend</h3>
-`HTML5`, `CSS3`, `TailwindCSS`, `Bootstrap`, `React`, `Redux Toolkit`, `Zustand`, `Shadcn`, `DaisyUI`, `Next.js`, `GSAP`, `Framer Motion`  
+### 🎨 Frontend  
+`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `Next.js` `GSAP` `Framer Motion`  
 
-<h3>🗄️ Databases</h3>
-`MongoDB`, `MySQL`, `Redis`  
+### 🗄️ Databases  
+`MongoDB` `MySQL` `Redis`  
 
-<h3>🔐 Auth & Security</h3>
-`JWT`, `OAuth`, `Passport.js`, `CORS`, `Rate Limiting`  
+### 🔐 Auth & Security  
+`JWT` `OAuth` `Passport.js` `CORS` `Rate Limiting`  
 
-<h3>☁️ DevOps & Cloud</h3>
-`Docker`, `Kubernetes`, `GitHub Actions`, `AWS (EC2, S3, Lambda, ECS)`, `Nginx`, `Jenkins`, `Cloudinary`  
+### ☁️ DevOps & Cloud  
+`Docker` `Kubernetes` `GitHub Actions` `AWS (EC2, S3, Lambda, ECS)` `Nginx` `Jenkins` `Cloudinary`  
 
-<h3>📊 Observability & Messaging</h3>
-`Prometheus`, `Grafana`, `Kafka`, `RabbitMQ`, `BullMQ`, `Load Balancing`, `Linux`, `Git`, `GitHub`  
+### 📊 Observability & Messaging  
+`Prometheus` `Grafana` `Kafka` `RabbitMQ` `BullMQ` `Load Balancing` `Linux` `Git` `GitHub`  
 
-<h3>🧪 Testing</h3>
-`Postman`, `Swagger`, `API Testing`, `Manual Testing` 
+### 🧪 Testing  
+`Postman` `Swagger` `API Testing` `Manual Testing`
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,17 +57,31 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>💼 Experience</h2>
 
-<h3>🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)</h3>  
-- Designed <b>scalable APIs</b> with Node.js & Express  
-- Built <b>secure authentication & media workflows</b>  
+<h3>🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)</h3>
+- Designed <b>scalable APIs</b> using Node.js & Express.js for multiple projects  
+- Built <b>secure authentication</b> workflows and media handling pipelines  
+- Implemented <b>real-time features</b> using WebSockets and REST API integration  
+- Collaborated with frontend teams to ensure <b>seamless integration and performance</b>  
 
-<h3>💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)</h3>  
-- Enhanced <b>UI/UX</b> with optimized layouts  
-- Worked in <b>Agile</b> team for smooth project delivery  
+<h3>💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)</h3>
+- Enhanced <b>UI/UX</b> with optimized layouts and responsive design  
+- Participated in <b>Agile sprints</b> to deliver timely project milestones  
+- Assisted in <b>code reviews</b> and testing to maintain code quality  
+- Coordinated with team members for <b>efficient feature implementation</b>  
 
-<h3>🌐 Internships</h3>  
+<h3>🌐 Internships</h3>
 - Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd  
+  - Developed <b>small-scale enterprise applications</b> using Oracle APEX  
+  - Learned database modeling and <b>workflow automation</b>  
+  - Assisted senior developers in <b>report generation and dashboards</b>  
+  - Gained hands-on experience in <b>enterprise-level software practices</b>  
+
 - Frontend Developer Intern | Prodigy InfoTech  
+  - Built <b>interactive UI components</b> using React.js  
+  - Implemented responsive layouts with <b>HTML, CSS, and Bootstrap</b>  
+  - Optimized frontend code for <b>performance and scalability</b>  
+  - Collaborated with backend team to <b>integrate APIs seamlessly</b>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -78,9 +93,9 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>🌐 Connect with Me</h2>
 
-- 🔗 <b>LinkedIn:</b> [linkedin.com/in/yourprofile](#)  
-- 🐙 <b>GitHub:</b> [github.com/yourusername](#)  
-- 🏅 <b>HackerRank:</b> [hackerrank.com/yourusername](#)  
+- 🔗 <b>LinkedIn:</b> [(https://www.linkedin.com/in/rahul-prakash-8a517220b)](#)  
+- 🐙 <b>GitHub:</b> [(https://github.com/rahulprakash0898)](#)  
+- 🏅 <b>HackerRank:</b> [(https://www.hackerrank.com/profile/rahulprakash0898)](#)  
 - 📧 <b>Email:</b> rahulprakash0898@gmail.com  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
