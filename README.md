@@ -59,32 +59,31 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 ## 🔷 🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)  
 <br>
--   Designed scalable APIs using Node.js & Express.js for multiple projects  
--   Built secure authentication workflows and media handling pipelines  
--   Implemented real-time features using WebSockets and REST API integration  
--   Collaborated with frontend teams to ensure seamless integration and performance  
+• Designed scalable APIs using Node.js & Express.js for multiple projects  
+• Built secure authentication workflows and media handling pipelines  
+• Implemented real-time features using WebSockets and REST API integration  
+• Collaborated with frontend teams to ensure seamless integration and performance  
 
 ## 🔷 💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)  
 <br>
--   Enhanced UI/UX with optimized layouts and responsive design  
--   Participated in Agile sprints to deliver timely project milestones  
--   Assisted in code reviews and testing to maintain code quality  
--   Coordinated with team members for efficient feature implementation   
+• Enhanced UI/UX with optimized layouts and responsive design  
+• Participated in Agile sprints to deliver timely project milestones  
+• Assisted in code reviews and testing to maintain code quality  
+• Coordinated with team members for efficient feature implementation   
 
 ## 🔷 🌐 Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd  
 <br>
--   Developed small-scale enterprise applications using Oracle APEX  
--   Learned database modeling and workflow automation  
--   Assisted senior developers in report generation and dashboards  
--   Gained hands-on experience in enterprise-level software practices  
+• Developed small-scale enterprise applications using Oracle APEX  
+• Learned database modeling and workflow automation  
+• Assisted senior developers in report generation and dashboards  
+• Gained hands-on experience in enterprise-level software practices  
 
 ## 🔷 🌐 Frontend Developer Intern | Prodigy InfoTech  
 <br>
--   Built interactive UI components using React.js  
--   Implemented responsive layouts with HTML, CSS, and Bootstrap  
--   ptimized frontend code for performance and scalability  
--   Collaborated with backend team to integrate APIs seamlessly
-
+• Built interactive UI components using React.js  
+• Implemented responsive layouts with HTML, CSS, and Bootstrap  
+• Optimized frontend code for performance and scalability  
+• Collaborated with backend team to integrate APIs seamlessly
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🏆 Achievements</h2>
