@@ -56,32 +56,29 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>💼 Experience</h2>
+- 🚀 **Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)**  
+  - Designed **scalable APIs** using Node.js & Express.js for multiple projects  
+  - Built **secure authentication** workflows and media handling pipelines  
+  - Implemented **real-time features** using WebSockets and REST API integration  
+  - Collaborated with frontend teams to ensure **seamless integration and performance**  
 
-<h3>🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)</h3>
-- Designed <b>scalable APIs</b> using Node.js & Express.js for multiple projects  
-- Built <b>secure authentication</b> workflows and media handling pipelines  
-- Implemented <b>real-time features</b> using WebSockets and REST API integration  
-- Collaborated with frontend teams to ensure <b>seamless integration and performance</b>  
+- 💻 **Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)**  
+  - Enhanced **UI/UX** with optimized layouts and responsive design  
+  - Participated in **Agile sprints** to deliver timely project milestones  
+  - Assisted in **code reviews** and testing to maintain code quality  
+  - Coordinated with team members for **efficient feature implementation**  
 
-<h3>💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)</h3>
-- Enhanced <b>UI/UX</b> with optimized layouts and responsive design  
-- Participated in <b>Agile sprints</b> to deliver timely project milestones  
-- Assisted in <b>code reviews</b> and testing to maintain code quality  
-- Coordinated with team members for <b>efficient feature implementation</b>  
+- 🌐 **Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd**  
+  - Developed **small-scale enterprise applications** using Oracle APEX  
+  - Learned database modeling and **workflow automation**  
+  - Assisted senior developers in **report generation and dashboards**  
+  - Gained hands-on experience in **enterprise-level software practices**  
 
-<h3>🌐 Internships</h3>
-- Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd  
-  - Developed <b>small-scale enterprise applications</b> using Oracle APEX  
-  - Learned database modeling and <b>workflow automation</b>  
-  - Assisted senior developers in <b>report generation and dashboards</b>  
-  - Gained hands-on experience in <b>enterprise-level software practices</b>  
-
-- Frontend Developer Intern | Prodigy InfoTech  
-  - Built <b>interactive UI components</b> using React.js  
-  - Implemented responsive layouts with <b>HTML, CSS, and Bootstrap</b>  
-  - Optimized frontend code for <b>performance and scalability</b>  
-  - Collaborated with backend team to <b>integrate APIs seamlessly</b>
-
+- 🌐 **Frontend Developer Intern | Prodigy InfoTech**  
+  - Built **interactive UI components** using React.js  
+  - Implemented responsive layouts with **HTML, CSS, and Bootstrap**  
+  - Optimized frontend code for **performance and scalability**  
+  - Collaborated with backend team to **integrate APIs seamlessly**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -93,10 +90,10 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>🌐 Connect with Me</h2>
 
-- 🔗 <b>LinkedIn:</b> [(https://www.linkedin.com/in/rahul-prakash-8a517220b)](#)  
-- 🐙 <b>GitHub:</b> [(https://github.com/rahulprakash0898)](#)  
-- 🏅 <b>HackerRank:</b> [(https://www.hackerrank.com/profile/rahulprakash0898)](#)  
-- 📧 <b>Email:</b> rahulprakash0898@gmail.com  
+- 🔗 **LinkedIn:** [rahul-prakash](https://www.linkedin.com/in/rahul-prakash-8a517220b)  
+- 🐙 **GitHub:** [rahulprakash0898](https://github.com/rahulprakash0898)  
+- 🏅 **HackerRank:** [rahulprakash0898](https://www.hackerrank.com/profile/rahulprakash0898)  
+- 📧 **Email:** [rahulprakash0898@gmail.com](mailto:rahulprakash0898@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
