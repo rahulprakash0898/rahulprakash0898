@@ -97,10 +97,10 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>🌐 Connect with Me</h2>
 
-- 🔗 **LinkedIn:** [rahul-prakash](https://www.linkedin.com/in/rahul-prakash-8a517220b)  
-- 🐙 **GitHub:** [rahulprakash0898](https://github.com/rahulprakash0898)  
-- 🏅 **HackerRank:** [rahulprakash0898](https://www.hackerrank.com/profile/rahulprakash0898)  
-- 📧 **Email:** [rahulprakash0898@gmail.com](mailto:rahulprakash0898@gmail.com)
+• 🔗 **[LinkedIn](https://www.linkedin.com/in/rahul-prakash-8a517220b)** – Connect with me professionally  
+• 🐙 **[GitHub](https://github.com/rahulprakash0898)** – Explore my projects and contributions  
+• 🏅 **[HackerRank](https://www.hackerrank.com/profile/rahulprakash0898)** – Check my coding achievements  
+• 📧 **[Email Me](mailto:rahulprakash0898@gmail.com)** – Send me a message
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
