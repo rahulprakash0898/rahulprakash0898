@@ -1,5 +1,6 @@
-# Hi there, I'm Rahul Prakash 👋  
+# Hi, I'm Rahul Prakash 👋  
 
+I’m a backend-focused MERN developer passionate about building scalable and secure systems. I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.
 ---
 
 ## 🚀 About Me  
