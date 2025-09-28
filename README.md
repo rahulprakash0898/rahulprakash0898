@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Rahul Prakash</h1>  
+<h1 align="left">👋 Hi, I'm Rahul Prakash</h1>  
 
-<p align="center">
+<p align="justify">
 I’m a backend-focused MERN developer passionate about building scalable and secure systems.  
 I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.  
 </p>
@@ -22,10 +22,10 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 JavaScript (ES6+), TypeScript, Python  
 
 <h3>🔧 Backend</h3>
-Node.js, Express.js, NestJS, Fastify, GraphQL, REST API, WebSockets, Hono, Bun  
+Node.js, Express.js, GraphQL, REST API, WebSockets
 
 <h3>🗄️ Databases</h3>
-MongoDB, PostgreSQL, MySQL, Redis  
+MongoDB, MySQL, Redis  
 
 <h3>🔐 Auth & Security</h3>
 JWT, OAuth, Passport.js, CORS, Rate Limiting  
@@ -34,16 +34,13 @@ JWT, OAuth, Passport.js, CORS, Rate Limiting
 Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda, ECS), Nginx, Jenkins, Cloudinary  
 
 <h3>📊 Observability & Messaging</h3>
-Prometheus, Grafana, Kafka, RabbitMQ, BullMQ, Load Balancing  
+Prometheus, Grafana, Kafka, RabbitMQ, BullMQ, Load Balancing,, Linux, Git, GitHub,
 
 <h3>🧪 Testing</h3>
-Postman  
+Postman , Swagger
 
 <h3>🎨 Frontend</h3>
 HTML5, CSS3, TailwindCSS, Bootstrap, React, Redux Toolkit, Zustand, Shadcn, DaisyUI, Next.js, GSAP, Framer Motion  
-
-<h3>⚙️ Tools & Platforms</h3>
-VS Code, Swagger, Git, GitHub, AWS, Grafana, Prometheus, Linux  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
