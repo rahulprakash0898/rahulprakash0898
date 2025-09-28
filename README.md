@@ -19,28 +19,28 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 <h2>🛠️ Tech Stack</h2>
 
 <h3>💡 Languages</h3>
-JavaScript (ES6+), TypeScript, Python  
+`JavaScript (ES6+)`, `TypeScript`, `Python`  
 
 <h3>🔧 Backend</h3>
-Node.js, Express.js, GraphQL, REST API, WebSockets
-
-<h3>🗄️ Databases</h3>
-MongoDB, MySQL, Redis  
-
-<h3>🔐 Auth & Security</h3>
-JWT, OAuth, Passport.js, CORS, Rate Limiting  
-
-<h3>☁️ DevOps & Cloud</h3>
-Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda, ECS), Nginx, Jenkins, Cloudinary  
-
-<h3>📊 Observability & Messaging</h3>
-Prometheus, Grafana, Kafka, RabbitMQ, BullMQ, Load Balancing,, Linux, Git, GitHub,
-
-<h3>🧪 Testing</h3>
-Postman , Swagger
+`Node.js`, `Express.js`, `GraphQL`, `REST API`, `WebSockets`  
 
 <h3>🎨 Frontend</h3>
-HTML5, CSS3, TailwindCSS, Bootstrap, React, Redux Toolkit, Zustand, Shadcn, DaisyUI, Next.js, GSAP, Framer Motion  
+`HTML5`, `CSS3`, `TailwindCSS`, `Bootstrap`, `React`, `Redux Toolkit`, `Zustand`, `Shadcn`, `DaisyUI`, `Next.js`, `GSAP`, `Framer Motion`  
+
+<h3>🗄️ Databases</h3>
+`MongoDB`, `MySQL`, `Redis`  
+
+<h3>🔐 Auth & Security</h3>
+`JWT`, `OAuth`, `Passport.js`, `CORS`, `Rate Limiting`  
+
+<h3>☁️ DevOps & Cloud</h3>
+`Docker`, `Kubernetes`, `GitHub Actions`, `AWS (EC2, S3, Lambda, ECS)`, `Nginx`, `Jenkins`, `Cloudinary`  
+
+<h3>📊 Observability & Messaging</h3>
+`Prometheus`, `Grafana`, `Kafka`, `RabbitMQ`, `BullMQ`, `Load Balancing`, `Linux`, `Git`, `GitHub`  
+
+<h3>🧪 Testing</h3>
+`Postman`, `Swagger`, `API Testing`, `Manual Testing` 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
