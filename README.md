@@ -1,97 +1,91 @@
-👋 Hi, I'm Rahul Prakash
+<h1 align="center">👋 Hi, I'm Rahul Prakash</h1>  
 
-I’m a backend-focused MERN developer passionate about building scalable and secure systems. I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.
+<p align="center">
+I’m a backend-focused MERN developer passionate about building scalable and secure systems.  
+I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.  
+</p>
 
-🚀 About Me
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💻 Backend Developer passionate about building scalable, secure, and production-ready systems
+<h2>🚀 About Me</h2>
 
-🌱 Skilled in MERN Stack, Microservices, DevOps, and Cloud technologies
+- 💻 Backend Developer passionate about <b>building scalable, secure, and production-ready systems</b>  
+- 🌱 Skilled in <b>MERN Stack, Microservices, DevOps, and Cloud technologies</b>  
+- 💬 Ask me about <b>APIs, Databases, Optimizations, and System Design</b>  
+- ⚡ Fun fact: <i>I debug more than I code</i> 😎  
 
-💬 Ask me about APIs, Databases, Optimizations, and System Design
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⚡ Fun fact: I debug more than I code 😎
+<h2>🛠️ Tech Stack</h2>
 
-🛠️ Tech Stack
-💡 Languages
+<h3>💡 Languages</h3>
+JavaScript (ES6+), TypeScript, Python  
 
-JavaScript (ES6+), TypeScript, Python
+<h3>🔧 Backend</h3>
+Node.js, Express.js, NestJS, Fastify, GraphQL, REST API, WebSockets, Hono, Bun  
 
-🔧 Backend
+<h3>🗄️ Databases</h3>
+MongoDB, PostgreSQL, MySQL, Redis  
 
-Node.js, Express.js, NestJS, Fastify, GraphQL, REST API, WebSockets, Hono, Bun
+<h3>🔐 Auth & Security</h3>
+JWT, OAuth, Passport.js, CORS, Rate Limiting  
 
-🗄️ Databases
+<h3>☁️ DevOps & Cloud</h3>
+Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda, ECS), Nginx, Jenkins, Cloudinary  
 
-MongoDB, PostgreSQL, MySQL, Redis
+<h3>📊 Observability & Messaging</h3>
+Prometheus, Grafana, Kafka, RabbitMQ, BullMQ, Load Balancing  
 
-🔐 Auth & Security
+<h3>🧪 Testing</h3>
+Postman  
 
-JWT, OAuth, Passport.js, CORS, Rate Limiting
+<h3>🎨 Frontend</h3>
+HTML5, CSS3, TailwindCSS, Bootstrap, React, Redux Toolkit, Zustand, Shadcn, DaisyUI, Next.js, GSAP, Framer Motion  
 
-☁️ DevOps & Cloud
+<h3>⚙️ Tools & Platforms</h3>
+VS Code, Swagger, Git, GitHub, AWS, Grafana, Prometheus, Linux  
 
-Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda, ECS), Nginx, Jenkins, Cloudinary
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Observability & Messaging
+<h2>📂 Projects</h2>
 
-Prometheus, Grafana, Kafka, RabbitMQ, BullMQ, Load Balancing
+- 🛒 <b>E-commerce Website</b> – React, Redux Toolkit, Express.js, MongoDB Atlas, JWT, PayPal SDK, Cloudinary  
+- 💬 <b>Real-Time Chat Application</b> – MERN + Socket.io, Zustand, DaisyUI  
+- 🎮 <b>Desktop Ludo Game</b> – Side project  
+- 🎨 <b>Canva Clone (Microservices)</b> – Scalable architecture  
+- 🚖 <b>Uber Clone</b> – Real-time ride booking system  
 
-🧪 Testing
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Postman
+<h2>💼 Experience</h2>
 
-🎨 Frontend
+<h3>🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)</h3>  
+- Designed <b>scalable APIs</b> with Node.js & Express  
+- Built <b>secure authentication & media workflows</b>  
 
-HTML5, CSS3, TailwindCSS, Bootstrap, React, Redux Toolkit, Zustand, Shadcn, DaisyUI, Next.js, GSAP, Framer Motion
+<h3>💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)</h3>  
+- Enhanced <b>UI/UX</b> with optimized layouts  
+- Worked in <b>Agile</b> team for smooth project delivery  
 
-⚙️ Tools & Platforms
+<h3>🌐 Internships</h3>  
+- Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd  
+- Frontend Developer Intern | Prodigy InfoTech  
 
-VS Code, Swagger, Postman, Git, GitHub, AWS, Grafana, Prometheus, Linux
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📂 Projects
+<h2>🏆 Achievements</h2>
 
-🛒 E-commerce Website – React, Redux Toolkit, Express.js, MongoDB Atlas, JWT, PayPal SDK, Cloudinary
+- ⭐⭐⭐⭐⭐ 5-star coder in <b>C & Java (HackerRank)</b>  
 
-💬 Real-Time Chat Application – MERN + Socket.io, Zustand, DaisyUI
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎮 Desktop Ludo Game – Side project
+<h2>🌐 Connect with Me</h2>
 
-🎨 Canva Clone (Microservices) – Scalable architecture
+- 🔗 <b>LinkedIn:</b> [linkedin.com/in/yourprofile](#)  
+- 🐙 <b>GitHub:</b> [github.com/yourusername](#)  
+- 🏅 <b>HackerRank:</b> [hackerrank.com/yourusername](#)  
+- 📧 <b>Email:</b> rahulprakash0898@gmail.com  
 
-🚖 Uber Clone – Real-time ride booking system
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💼 Experience
-🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)
-
-Designed scalable APIs with Node.js & Express
-
-Built secure authentication & media workflows
-
-💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)
-
-Enhanced UI/UX with optimized layouts
-
-Worked in Agile team for smooth project delivery
-
-🌐 Internships
-
-Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd
-
-Frontend Developer Intern | Prodigy InfoTech
-
-🏆 Achievements
-
-⭐⭐⭐⭐⭐ 5-star coder in C & Java (HackerRank)
-
-🌐 Connect with Me
-
-🔗 LinkedIn: linkedin.com/in/yourprofile
-
-🐙 GitHub: github.com/yourusername
-
-🏅 HackerRank: hackerrank.com/yourusername
-
-📧 Email: rahulprakash0898@gmail.com
-
-✨ Always learning, always building!
+<p align="center"><i>✨ Always learning, always building! ✨</i></p>
