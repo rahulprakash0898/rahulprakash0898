@@ -57,8 +57,6 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 
 <h2>💼 Experience</h2>
 
-## 💼 Experience
-
 🔷 🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)
 
 • Designed scalable APIs using Node.js & Express.js for multiple projects  
