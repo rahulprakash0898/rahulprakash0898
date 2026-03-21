@@ -25,7 +25,7 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 `Node.js` `Express.js` `GraphQL` `REST API` `WebSockets` `Socket.io`  
 
 ### 🎨 Frontend  
-`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `Next.js` `GSAP` `Framer Motion`  
+`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `GSAP` `Framer Motion`  
 
 ### 🗄️ Databases  
 `MongoDB` `MySQL` `Redis`  
@@ -34,13 +34,13 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 `JWT` `OAuth` `Passport.js` `CORS` `Rate Limiting`  
 
 ### ☁️ DevOps & Cloud  
-`Docker` `Kubernetes` `GitHub Actions` `AWS (EC2, S3, Lambda, ECS)` `Nginx` `Jenkins` `Cloudinary`  
+`Docker`  `GitHub Actions` `AWS (EC2, S3, Lambda, ECS)` `Nginx` `Jenkins` `Cloudinary`  
 
 ### 📊 Observability & Messaging  
-`Prometheus` `Grafana` `Kafka` `RabbitMQ` `BullMQ` `Load Balancing` `Linux` `Git` `GitHub`  
+`Prometheus` `Grafana`  `RabbitMQ` `BullMQ` `Load Balancing` `Linux` `Git` `GitHub`  
 
 ### 🧪 Testing  
-`Postman` `Swagger` `API Testing` `Manual Testing`
+`Postman`  `API Testing` `Manual Testing`
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
