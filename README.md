@@ -22,7 +22,7 @@ I enjoy solving complex problems with modern backend technologies, clean archite
 `JavaScript (ES6+)` `TypeScript` `Python`  
 
 ### 🔧 Backend  
-`Node.js` `Express.js` `GraphQL` `REST API` `WebSockets Socket.io`  
+`Node.js` `Express.js` `GraphQL` `REST API` `WebSockets` `Socket.io`  
 
 ### 🎨 Frontend  
 `HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `Next.js` `GSAP` `Framer Motion`  
