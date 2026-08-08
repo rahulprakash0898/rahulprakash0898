@@ -1,275 +1,105 @@
-# 👋 Hi, I'm Rahul Prakash
+<h1 align="left">👋 Hi, I'm Rahul Prakash</h1>  
 
-### 🚀 Node.js Developer | MERN Stack Developer | Backend Engineer
+<p align="justify">
+I’m a backend-focused MERN developer passionate about building scalable and secure systems.  
+I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.  
+</p>
 
-I’m a **Backend-focused Software Developer** with **1+ year of professional experience**, passionate about building scalable, secure, and production-ready applications.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I specialize in **Node.js, Express.js, React.js, TypeScript, MongoDB, PostgreSQL, Redis, Docker, AWS, and CI/CD**, with a strong interest in **Microservices, System Design, Cloud Infrastructure, and DevOps**.
+<h2>🚀 About Me</h2>
 
----
+- 💻 Backend Developer passionate about <b>building scalable, secure, and production-ready systems</b>  
+- 🌱 Skilled in <b>MERN Stack, Microservices, DevOps, and Cloud technologies</b>  
+- 💬 Ask me about <b>APIs, Databases, Optimizations, and System Design</b>  
+- ⚡ Fun fact: <i>I debug more than I code</i> 😎  
 
-## 🚀 About Me
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-```yaml
-name       : Rahul Prakash
-role       : Node.js Developer | MERN Stack Developer
-experience : 1+ years
-location   : New Delhi, India
-specialize : Backend Development & Full Stack Development
-stack      : [Node.js, Express.js, React.js, TypeScript, MongoDB, PostgreSQL]
-devops     : [Docker, AWS, GitHub Actions, Nginx, PM2]
-learning   : [Microservices, System Design, Kubernetes, Advanced AWS]
-open_to    : Full-time Software Development Opportunities
-```
+<h2>🛠️ Tech Stack</h2>
 
----
+### 💡 Languages  
+`JavaScript (ES6+)` `TypeScript` `Python`  
 
-## 🛠️ Tech Stack & Tools
+### 🔧 Backend  
+`Node.js` `Express.js` `GraphQL` `REST API` `WebSockets` `Socket.io`  
 
-### 💻 Programming Languages
+### 🎨 Frontend  
+`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `GSAP` `Framer Motion`  
 
-`JavaScript (ES6+)` `TypeScript` `Python` `C` `Java`
+### 🗄️ Databases  
+`MongoDB` `MySQL` `Redis`  
 
-### 🎨 Frontend
+### 🔐 Auth & Security  
+`JWT` `OAuth` `Passport.js` `CORS` `Rate Limiting`  
 
-`React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `Bootstrap` `Shadcn UI` `Zustand` `DaisyUI` `HTML5` `CSS3`
+### ☁️ DevOps & Cloud  
+`Docker`  `GitHub Actions` `AWS (EC2, S3, Lambda, ECS)` `Nginx` `Jenkins` `Cloudinary`  
 
-### ⚙️ Backend
+### 📊 Observability & Messaging  
+`Prometheus` `Grafana`  `RabbitMQ` `BullMQ` `Load Balancing` `Linux` `Git` `GitHub`  
 
-`Node.js` `Express.js` `REST APIs` `GraphQL` `WebSockets` `Socket.IO`
+### 🧪 Testing  
+`Postman`  `API Testing` `Manual Testing`
 
-### 🗄️ Databases
 
-`MongoDB` `PostgreSQL` `MySQL` `Redis`
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🔐 Authentication & Security
+<h2>📂 Projects</h2>
 
-`JWT` `OAuth` `Passport.js` `CORS` `Rate Limiting` `bcrypt` `API Security`
+- 🛒 <b>E-commerce Website</b> – React, Redux Toolkit, Express.js, MongoDB Atlas, JWT, PayPal SDK, Cloudinary  
+- 💬 <b>Real-Time Chat Application</b> – MERN + Socket.io, Zustand, DaisyUI  
+- 🎮 <b>Desktop Ludo Game</b> – Side project  
+- 🎨 <b>Canva Clone (Microservices)</b> – Scalable architecture  
+- 🚖 <b>Uber Clone</b> – Real-time ride booking system  
 
-### ☁️ Cloud & DevOps
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-`Docker` `AWS EC2` `AWS S3` `AWS Lambda` `AWS ECS` `Nginx` `PM2` `GitHub Actions` `Jenkins` `Linux`
+<h2>💼 Experience</h2>
 
-### 📨 Messaging & Background Jobs
+🔷 🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)
 
-`RabbitMQ` `BullMQ` `MQTT` `Redis`
+• Designed scalable APIs using Node.js & Express.js for multiple projects  
+• Built secure authentication workflows and media handling pipelines  
+• Implemented real-time features using WebSockets and REST API integration  
+• Collaborated with frontend teams to ensure seamless integration and performance  
 
-### 📊 Monitoring & Observability
+🔷 💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)
 
-`Prometheus` `Grafana` `Load Balancing`
+• Enhanced UI/UX with optimized layouts and responsive design  
+• Participated in Agile sprints to deliver timely project milestones  
+• Assisted in code reviews and testing to maintain code quality  
+• Coordinated with team members for efficient feature implementation  
 
-### 🧪 Development & Testing
+🔷 🌐 Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd
 
-`Git` `GitHub` `Postman` `API Testing` `Manual Testing` `VS Code`
+• Developed small-scale enterprise applications using Oracle APEX  
+• Learned database modeling and workflow automation  
+• Assisted senior developers in report generation and dashboards  
+• Gained hands-on experience in enterprise-level software practices  
 
----
+🔷 🌐 Frontend Developer Intern | Prodigy InfoTech
 
-## 📊 GitHub Stats
+• Built interactive UI components using React.js  
+• Implemented responsive layouts with HTML, CSS, and Bootstrap  
+• Optimized frontend code for performance and scalability  
+• Collaborated with backend team to integrate APIs seamlessly
 
-<div align="center">
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulprakash0898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<h2>🏆 Achievements</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulprakash0898&theme=tokyonight&hide_border=true" />
+- ⭐⭐⭐⭐⭐ 5-star coder in <b>C & Java (HackerRank)</b>  
 
-</div>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+<h2>🌐 Connect with Me</h2>
 
-## 🏆 GitHub Trophies
+• 🔗 **[LinkedIn](https://www.linkedin.com/in/rahul-prakash-8a517220b)** – Connect with me professionally  
+• 🐙 **[GitHub](https://github.com/rahulprakash0898)** – Explore my projects and contributions  
+• 🏅 **[HackerRank](https://www.hackerrank.com/profile/rahulprakash0898)** – Check my coding achievements  
+• 📧 **[Email Me](mailto:rahulprakash0898@gmail.com)** – Send me a message
 
-<div align="center">
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulprakash0898&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-| Role                             | Company                                   | Period              |
-| -------------------------------- | ----------------------------------------- | ------------------- |
-| 🚀 **Node.js Developer**         | **Axepert Exhibits Pvt. Ltd.**            | May 2025 – Present  |
-| 💻 **Software DM Trainee**       | **Myndtree Business Services**            | Feb 2024 – May 2024 |
-| 🌐 **Oracle APEX Intern**        | **Aditya Birla Hindalco Industries Ltd.** | Internship          |
-| 🎨 **Frontend Developer Intern** | **Prodigy InfoTech**                      | Internship          |
-
-### 🔹 Node.js Developer — Axepert Exhibits Pvt. Ltd.
-
-* Designed and developed scalable backend APIs using **Node.js and Express.js**
-* Implemented secure authentication and authorization workflows
-* Worked with databases, API integrations, and media handling
-* Developed real-time features using **WebSockets / Socket.IO**
-* Collaborated with frontend developers for seamless API integration
-* Focused on performance, scalability, security, and maintainable code
-
-### 🔹 Software DM Trainee — Myndtree Business Services
-
-* Worked on responsive and user-friendly interfaces
-* Participated in Agile development processes and sprint activities
-* Assisted with testing, debugging, and code reviews
-* Collaborated with team members to implement application features
-
-### 🔹 Oracle APEX Intern — Aditya Birla Hindalco Industries Ltd.
-
-* Developed enterprise applications using **Oracle APEX**
-* Worked with database modeling and application workflows
-* Assisted in creating reports and dashboards
-* Gained experience working with enterprise development practices
-
-### 🔹 Frontend Developer Intern — Prodigy InfoTech
-
-* Developed reusable UI components using **React.js**
-* Built responsive interfaces using HTML, CSS, and Bootstrap
-* Integrated frontend applications with backend APIs
-* Improved frontend performance and maintainability
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Platform
-
-**Tech:** React.js • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • PayPal • Cloudinary
-
-* Full-stack e-commerce application
-* Secure authentication and authorization
-* Product and order management
-* Payment integration
-* Cloud-based image management
-* RESTful backend APIs
-
----
-
-### 💬 Real-Time Chat Application
-
-**Tech:** MERN • Socket.IO • Zustand • DaisyUI
-
-* Real-time one-to-one communication
-* Socket-based messaging
-* Online/offline user status
-* Responsive chat interface
-* REST API integration
-
----
-
-### 🎨 Canva Clone — Microservices Architecture
-
-**Tech:** Node.js • Express.js • React.js • MongoDB • Redis • Docker • Microservices
-
-* Designed a scalable microservices-based architecture
-* Independent services for different business domains
-* API communication between services
-* Containerized services using Docker
-* Focused on scalability and maintainability
-
----
-
-### 🚖 Uber Clone
-
-**Tech:** MERN • Socket.IO • Maps API • MongoDB
-
-* Real-time ride booking system
-* Driver and customer workflows
-* Location-based services
-* Real-time ride status updates
-* Socket-based communication
-
----
-
-### 🎮 Desktop Ludo Game
-
-**Tech:** JavaScript / Desktop Application Technologies
-
-* Multiplayer-oriented game logic
-* Turn-based gameplay
-* Game state management
-* Designed as a personal side project
-
----
-
-## 🧠 Core Skills
-
-| Domain             | Technologies                                              |
-| ------------------ | --------------------------------------------------------- |
-| **Frontend**       | React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap |
-| **Backend**        | Node.js, Express.js, TypeScript, REST API, GraphQL        |
-| **Real-Time**      | Socket.IO, WebSockets, MQTT                               |
-| **Databases**      | MongoDB, PostgreSQL, MySQL, Redis                         |
-| **Architecture**   | Microservices, REST, System Design, API Gateway           |
-| **Authentication** | JWT, OAuth, Passport.js, bcrypt                           |
-| **DevOps**         | Docker, AWS, Nginx, PM2, GitHub Actions, Jenkins          |
-| **Cloud**          | AWS EC2, S3, Lambda, ECS                                  |
-| **Messaging**      | RabbitMQ, BullMQ, Redis                                   |
-| **Monitoring**     | Prometheus, Grafana                                       |
-| **Tools**          | Git, GitHub, Postman, VS Code, Linux                      |
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulprakash0898&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahulprakash0898/rahulprakash0898/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🌐 My Portfolio
-
-🚀 **Portfolio:**
-https://creative-showcase.vercel.app/
-
----
-
-## 🏅 Coding Profiles
-
-* ⭐ **HackerRank:** 5-Star in C & Java
-* 💻 **GitHub:** Open-source projects and development work
-* 🚀 **Portfolio:** Projects and professional work
-
----
-
-## 📩 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rahul-prakash-8a517220b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/rahulprakash0898">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/rahulprakash0898">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
-</a>
-
-<a href="mailto:rahulprakash0898@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 "Building scalable systems, one API at a time."
-
-⭐ **If you find my projects useful, consider giving them a star!**
-
-</div>
+<p align="center"><i>✨ Always learning, always building! ✨</i></p>
