@@ -1,105 +1,213 @@
-<h1 align="left">👋 Hi, I'm Rahul Prakash</h1>  
+<h1 align="left">👋 Hi, I'm Rahul Prakash</h1>
 
 <p align="justify">
-I’m a backend-focused MERN developer passionate about building scalable and secure systems.  
-I enjoy solving complex problems with modern backend technologies, clean architecture, and exploring DevOps practices to deliver production-ready applications.  
+I'm a Full Stack Developer focused on building scalable, secure, and production-ready web applications.
+I work primarily with React.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis, with hands-on experience in
+REST APIs, real-time communication, authentication, cloud deployment, CI/CD, and AI/LLM integration.
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🚀 About Me</h2>
 
-- 💻 Backend Developer passionate about <b>building scalable, secure, and production-ready systems</b>  
-- 🌱 Skilled in <b>MERN Stack, Microservices, DevOps, and Cloud technologies</b>  
-- 💬 Ask me about <b>APIs, Databases, Optimizations, and System Design</b>  
-- ⚡ Fun fact: <i>I debug more than I code</i> 😎  
+- 💻 Full Stack Developer with hands-on experience building <b>scalable and production-ready applications</b>
+- ⚛️ Experienced in <b>React.js, Node.js, Express.js, MongoDB, PostgreSQL, and Redis</b>
+- 🔐 Experienced in <b>JWT, OAuth, RBAC, API validation, pagination, and rate limiting</b>
+- 🤖 Integrated <b>AI/LLM capabilities</b> into full-stack applications using backend APIs and frontend interfaces
+- ⚡ Experienced in <b>REST APIs, WebSockets, Socket.IO, Redux Toolkit, TanStack Query, and Zustand</b>
+- ☁️ Hands-on with <b>Docker, Nginx, AWS EC2, AWS S3, Linux, VPS, and GitHub Actions</b>
+- 🛠️ Focused on clean architecture, debugging, performance optimization, and maintainable code
+- 😎 Fun fact: <i>I debug more than I code</i>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🛠️ Tech Stack</h2>
 
-### 💡 Languages  
-`JavaScript (ES6+)` `TypeScript` `Python`  
+### 💡 Languages
 
-### 🔧 Backend  
-`Node.js` `Express.js` `GraphQL` `REST API` `WebSockets` `Socket.io`  
+`JavaScript (ES6+)` `TypeScript` `Python`
 
-### 🎨 Frontend  
-`HTML5` `CSS3` `TailwindCSS` `Bootstrap` `React` `Redux Toolkit` `Zustand` `Shadcn` `DaisyUI` `GSAP` `Framer Motion`  
+### 🎨 Frontend
 
-### 🗄️ Databases  
-`MongoDB` `MySQL` `Redis`  
+`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
+`Redux Toolkit` `TanStack Query` `Zustand`
 
-### 🔐 Auth & Security  
-`JWT` `OAuth` `Passport.js` `CORS` `Rate Limiting`  
+### 🔧 Backend
 
-### ☁️ DevOps & Cloud  
-`Docker`  `GitHub Actions` `AWS (EC2, S3, Lambda, ECS)` `Nginx` `Jenkins` `Cloudinary`  
+`Node.js` `Express.js` `REST APIs` `Socket.IO` `WebSockets`
 
-### 📊 Observability & Messaging  
-`Prometheus` `Grafana`  `RabbitMQ` `BullMQ` `Load Balancing` `Linux` `Git` `GitHub`  
+### 🤖 AI
 
-### 🧪 Testing  
-`Postman`  `API Testing` `Manual Testing`
+`AI/LLM Integration` `AI APIs` `LLM-powered Application Features`
 
+### 🗄️ Databases
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`MongoDB` `MongoDB Atlas` `PostgreSQL` `MySQL` `Redis`
 
-<h2>📂 Projects</h2>
+### 🔐 Authentication & Security
 
-- 🛒 <b>E-commerce Website</b> – React, Redux Toolkit, Express.js, MongoDB Atlas, JWT, PayPal SDK, Cloudinary  
-- 💬 <b>Real-Time Chat Application</b> – MERN + Socket.io, Zustand, DaisyUI  
-- 🎮 <b>Desktop Ludo Game</b> – Side project  
-- 🎨 <b>Canva Clone (Microservices)</b> – Scalable architecture  
-- 🚖 <b>Uber Clone</b> – Real-time ride booking system  
+`JWT` `OAuth` `RBAC` `Bcrypt.js` `API Validation`
+`CORS` `Rate Limiting` `Pagination`
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ☁️ Cloud & DevOps
 
-<h2>💼 Experience</h2>
+`Docker` `AWS EC2` `AWS S3` `Nginx`
+`GitHub Actions` `Linux` `VPS/KVM`
 
-🔷 🚀 Node.js Developer | Axepert Exhibits Pvt. Ltd (05/2025 – Present, New Delhi)
+### 🧰 Tools
 
-• Designed scalable APIs using Node.js & Express.js for multiple projects  
-• Built secure authentication workflows and media handling pipelines  
-• Implemented real-time features using WebSockets and REST API integration  
-• Collaborated with frontend teams to ensure seamless integration and performance  
-
-🔷 💻 Software DM Trainee | Myndtree Business Services (02/2024 – 05/2024, Noida)
-
-• Enhanced UI/UX with optimized layouts and responsive design  
-• Participated in Agile sprints to deliver timely project milestones  
-• Assisted in code reviews and testing to maintain code quality  
-• Coordinated with team members for efficient feature implementation  
-
-🔷 🌐 Oracle-Apex Intern | Aditya Birla Hindalco Industries Ltd
-
-• Developed small-scale enterprise applications using Oracle APEX  
-• Learned database modeling and workflow automation  
-• Assisted senior developers in report generation and dashboards  
-• Gained hands-on experience in enterprise-level software practices  
-
-🔷 🌐 Frontend Developer Intern | Prodigy InfoTech
-
-• Built interactive UI components using React.js  
-• Implemented responsive layouts with HTML, CSS, and Bootstrap  
-• Optimized frontend code for performance and scalability  
-• Collaborated with backend team to integrate APIs seamlessly
+`Git` `GitHub` `Postman` `MongoDB Compass`
+`Cloudinary` `Axios`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>🏆 Achievements</h2>
+<h2>📂 Featured Projects</h2>
 
-- ⭐⭐⭐⭐⭐ 5-star coder in <b>C & Java (HackerRank)</b>  
+### 🛒 E-commerce Website
+
+<b>Tech Stack:</b>
+React.js, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, PayPal,
+Cloudinary, Axios
+
+- 🛍️ Full-stack e-commerce platform with product filtering, shopping cart,
+  checkout, and PayPal payment integration
+- 🔐 Implemented JWT authentication and Role-Based Access Control (RBAC)
+- ☁️ Used MongoDB Atlas, Cloudinary, Redux Toolkit, Axios, and reusable UI components
+
+🔗 <b>GitHub:</b>
+https://github.com/rahulprakash0898/E-Commerce-App
+
+🚀 <b>Live Demo:</b>
+https://e-commerce-app-sigma-nine.vercel.app/auth/login
+
+
+### 💬 Real-Time Chat Application
+
+<b>Tech Stack:</b>
+React.js, Node.js, Express.js, MongoDB, Socket.IO, Zustand,
+Tailwind CSS, DaisyUI, Cloudinary
+
+- 💬 Built a real-time chat application using Socket.IO and WebSockets
+- 🔐 Implemented JWT/Bcrypt.js authentication and secure user workflows
+- 🖼️ Integrated Cloudinary for image management
+- ⚛️ Used Zustand and React Router for client-side state and navigation
+
+🔗 <b>GitHub:</b>
+https://github.com/rahulprakash0898/fullstack-chat-app
+
+🚀 <b>Live Demo:</b>
+https://fullstack-chat-app-5ane.onrender.com/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>🌐 Connect with Me</h2>
+<h2>💼 Professional Experience</h2>
 
-• 🔗 **[LinkedIn](https://www.linkedin.com/in/rahul-prakash-8a517220b)** – Connect with me professionally  
-• 🐙 **[GitHub](https://github.com/rahulprakash0898)** – Explore my projects and contributions  
-• 🏅 **[HackerRank](https://www.hackerrank.com/profile/rahulprakash0898)** – Check my coding achievements  
-• 📧 **[Email Me](mailto:rahulprakash0898@gmail.com)** – Send me a message
+### 🔷 Full Stack Developer | Axepert Exhibits Private Limited
+
+<b>May 2025 -- Aug 2026 | New Delhi, India</b>
+
+- 🚀 Delivered <b>10+ full-stack projects</b> using React.js, Node.js,
+  Express.js, MongoDB, PostgreSQL, and Redis
+- 📊 Supported applications serving <b>100,000+ user visits</b> through
+  scalable REST APIs, optimized queries, database indexing, and Redis caching
+- ⚡ Reduced production deployment turnaround to approximately
+  <b>20 minutes</b> using Docker, Nginx, AWS EC2, Linux/VPS, and GitHub Actions
+- 🤖 Integrated <b>AI/LLM capabilities</b> into full-stack applications by
+  connecting AI services with Node.js backend APIs and React.js interfaces
+- 🔐 Implemented JWT/OAuth, RBAC, API validation, pagination, and rate limiting
+- 🔄 Built real-time communication features using Socket.IO and WebSockets
+- ⚛️ Optimized frontend data management using Redux Toolkit and TanStack Query
+
+### 🔷 Software DM Trainee | Myndtree Business Services
+
+<b>Feb 2024 -- May 2024 | Noida, India</b>
+
+- 🎨 Developed responsive web pages and improved UI layouts
+- 🔧 Supported frontend development, debugging, and UI implementation
+- 🤝 Collaborated with development teams in an Agile environment
+- 🧩 Assisted in implementing maintainable and reusable web interfaces
+
+### 🔷 Oracle APEX / PL/SQL Intern | Aditya Birla Hindalco Industries Ltd
+
+<b>Jul 2023 -- Sep 2023 | Renukoot, Uttar Pradesh</b>
+
+- 🗄️ Worked with <b>PL/SQL queries, stored procedures, functions, and database operations</b>
+- ⚙️ Used Oracle APEX for database-driven applications and application workflows
+- 📊 Worked with data handling, application logic, and relational database workflows
+- 💻 Gained practical experience with enterprise database applications
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center"><i>✨ Always learning, always building! ✨</i></p>
+<h2>🎓 Education</h2>
+
+- 🎓 <b>Master of Computer Applications (MCA) with Honors</b>
+  <br>
+  Galgotias College of Engineering and Technology
+  <br>
+  Nov 2021 -- Sep 2023
+
+- 🎓 <b>Bachelor of Computer Applications (BCA) with Honors</b>
+  <br>
+  Bundelkhand University
+  <br>
+  Jul 2018 -- Jul 2021
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>🏆 Achievements & Training</h2>
+
+### ⭐ HackerRank 5-Star
+
+Achieved <b>5-star ratings in Java and SQL</b>, demonstrating strong
+programming, database, and problem-solving skills.
+
+🔗 HackerRank:
+https://www.hackerrank.com/profile/rahulprakash0898
+
+
+### 🎯 MERN Stack Developer Training -- JSpiders
+
+<b>July 2024 -- May 2025</b>
+
+Completed hands-on training in:
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- REST API Development
+- Debugging
+- Code Optimization
+- Git & GitHub
+
+📜 Certificate:
+https://drive.google.com/file/d/1-IaAsPUhmTlZS8bZJcGTPrNTEcTHeXMA/view
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>🌐 Portfolio</h2>
+
+🚀 <b>Portfolio:</b>
+https://rahulprakash-dev.netlify.app/
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>📫 Connect with Me</h2>
+
+- 💼 <b>LinkedIn:</b>
+  https://www.linkedin.com/in/rahul-prakash-dev
+
+- 🐙 <b>GitHub:</b>
+  https://github.com/rahulprakash0898
+
+- 🏅 <b>HackerRank:</b>
+  https://www.hackerrank.com/profile/rahulprakash0898
+
+- 📧 <b>Email:</b>
+  rahulprakash0898@gmail.com
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <i>✨ Always learning, building, and solving real-world problems. ✨</i>
+</p>
